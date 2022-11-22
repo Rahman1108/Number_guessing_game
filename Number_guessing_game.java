@@ -6,7 +6,7 @@ import java.util.*;
 class Main{
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
-        int x,num,y;   
+        int x,num,y,m;   
         num = 1+(int)(100*Math.random());
         y = 0;
         m=10
